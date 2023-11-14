@@ -1,0 +1,27 @@
+/* CSS Document for table demostration */
+
+table{
+	border-collapse: collapse;
+	width: 60%;
+	margin: auto;
+}
+
+td, th{
+	border: 2px solid #333333;
+	padding: 10px;
+}
+
+tr:nth-child(even) {
+	background-color: #A2D2FF;
+}
+
+caption{
+	font-weight: bold;
+	font-size: 30px;
+}
+
+
+
+
+
+
